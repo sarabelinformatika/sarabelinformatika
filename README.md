@@ -4,6 +4,23 @@
 
 <br>
 
+<p align="center">
+
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology-NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</p>
+
+<p align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+
+</p>
+
 # SARABEL Informatika Kft.
 
 > Enterprise IT Infrastructure • Virtualization • Data Protection • Microsoft 365 • Monitoring • Linux
