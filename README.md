@@ -17,6 +17,7 @@
 </p>
 
 # SARABEL Informatika Kft.
+### Enterprise IT Infrastructure & Managed Services
 
 > Enterprise IT Infrastructure • Virtualization • Data Protection • Microsoft 365 • Monitoring • Linux
 
