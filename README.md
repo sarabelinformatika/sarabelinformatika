@@ -19,9 +19,9 @@
 # SARABEL Informatika Kft.
 ### Enterprise IT Infrastructure & Managed Services
 
-> Enterprise IT Infrastructure • Virtualization • Data Protection • Microsoft 365 • Monitoring • Linux
+> Delivering secure, scalable and business-focused IT infrastructure solutions.
 
-Welcome to the official GitHub profile of **SARABEL Informatika Kft.**
+**SARABEL Informatika Kft.** specializes in designing, deploying and operating modern IT infrastructures for small and medium-sized businesses.
 
 We design, deploy and operate secure, reliable and scalable IT infrastructures for small and medium-sized businesses. Our focus is on virtualization, backup, monitoring, Microsoft 365 and modern open-source technologies.
 
