@@ -17,7 +17,7 @@
 </p>
 
 # SARABEL Informatika Kft.
-### Enterprise IT Infrastructure & Managed Services
+### Enterprise IT Infrastructure for SMBs
 
 > Delivering secure, scalable and business-focused IT infrastructure solutions.
 
