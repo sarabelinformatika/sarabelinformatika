@@ -112,7 +112,7 @@ Our repositories include:
 
 ---
 
-# Visit Us
+# Connect with Us
 
 🌐 Website  
 https://sarabelinformatika.hu
@@ -122,6 +122,9 @@ https://sarabelinformatika.hu/blog
 
 💼 LinkedIn  
 https://www.linkedin.com/company/sarabel-informatika-kft/
+
+📍 Google Business Profile
+https://share.google/WyzYNCwweENM06I3c
 
 ---
 
