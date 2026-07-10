@@ -124,7 +124,6 @@ https://sarabelinformatika.hu/blog
 https://www.linkedin.com/company/sarabel-informatika-kft/
 
 📍 Google Business Profile
-
 https://share.google/WyzYNCwweENM06I3c
 
 ---
