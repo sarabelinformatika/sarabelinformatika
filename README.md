@@ -16,6 +16,13 @@
 
 </p>
 
+<p align="center">
+
+🌐 <strong><a href="https://sarabelinformatika.hu">Official Website</a></strong> •
+📝 <strong><a href="https://sarabelinformatika.hu/blog">Technical Blog</a></strong>
+
+</p>
+
 # SARABEL Informatika Kft.
 ### Enterprise IT Infrastructure for SMBs
 
